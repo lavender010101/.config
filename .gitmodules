@@ -4,3 +4,6 @@
 [submodule "st"]
 	path = st
 	url = git@github.com:lavender010101/st
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:lavender010101/nvim
